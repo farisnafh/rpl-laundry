@@ -7,8 +7,8 @@ merancang tampilan, pengalaman pengguna pada produk digital agar mudah digunakan
 
 <p>2. Front End programmer (web/ mobile) : Farras Husain (2000018153)</p>
 merancang dan mengembangkan tampilan visual serta fitur interaktif pada website, menggunakan bahasa pemrograman seperti HTML, CSS, dan Php.
+<br><br>
 
-<br>
 <p>3. Back-end programmer : Farisna Hamid Jabbar (2000018170)</p>
 mengembangkan dan memelihara server-side logic dan database pada sebuah website, memastikan keamanan dan kinerja website, sehingga dapat berjalan dengan baik dan dapat diakses oleh pengguna dengan aman dan lancar.
 
